@@ -1,0 +1,18 @@
+/* Center and style the start screen */
+#start-screen {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+#game-code-input {
+  padding: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#play-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

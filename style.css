@@ -16,3 +16,30 @@
   font-size: 16px;
   cursor: pointer;
 }
+/* Class to hide screens when not in use */
+.hidden {
+  display: none;
+}
+
+/* Gameplay layout */
+#game-screen {
+  text-align: center;
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+}
+
+#timer-display {
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+  margin-bottom: 15px;
+}
+
+.answer-btn {
+  display: block;
+  width: 200px;
+  margin: 10px auto;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
